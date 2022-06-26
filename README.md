@@ -5,6 +5,9 @@ This is An Anti Afk Script For Roblox
 Script Obfuscated By MoonSec Obfuscator
 
 
+Script: loadstring(game:HttpGet("https://raw.githubusercontent.com/DarksGitHub/Roblox-Anti-Afk/main/AntiAfkKick.lua", true))()
+
+
 Supported Executors:
 
   JJSploit V6
